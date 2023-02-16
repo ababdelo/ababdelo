@@ -1,9 +1,10 @@
   <h1 align="center">  Hi, I'm &nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4500&pause=1250&color=2770BB&vCenter=true&width=435&lines=ababdelo" alt="Typing SVG" /> <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Get Greetings animated gif" height="45" width="45" align="center"/> </h1>
-  <h2 align="center">A student at :</h2> <h3 align="center"><img align="center" src="https://2.bp.blogspot.com/-M1M4G3t0yq8/W2mfo9uuBKI/AAAAAAAAFBo/X1Vm8yvJWn8I2niFkGCwa-lCH2pyr7K1ACLcBGAs/s1600/1337.png" width="120" height="64"/><br><br>  from : 🇲🇦 🇲🇦 🇲🇦</h3>
+  <h2 align="center">A student at :</h2> <h3 align="center"><img align="center" src="https://2.bp.blogspot.com/-M1M4G3t0yq8/W2mfo9uuBKI/AAAAAAAAFBo/X1Vm8yvJWn8I2niFkGCwa-lCH2pyr7K1ACLcBGAs/s1600/1337.png" width="120" height="64"/> <h1> </h1><h3 align="center">  from : 🇲🇦 🇲🇦 🇲🇦</h3>
+  <br>
 
   |		          `42 Cursus`                                   |	 			`C Piscine`     	                |
   | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-  | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=21&coalitionId=78" alt="ababdelo's 42 stats" /></a> | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=9&coalitionId=piscine" alt="ababdelo's 42 stats" /></a> |
+  | <br> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=21&coalitionId=78" alt="ababdelo's 42 stats" /></a> <br> <br> | <br> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=9&coalitionId=piscine" alt="ababdelo's 42 stats" /></a> <br> <br> |
 
   <h1></h1>
 
