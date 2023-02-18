@@ -25,6 +25,9 @@
 
 <br>
 
+<details align="center"> <br>
+  <summary> Click there for more details</summary>
+
 |                                                                                        ` ababdelo's GitHub Stats `                                                                                        |                                                                                                                  ` Most Used Languages `                                                                                                                  |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ababdelo&show_icons=true"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; | <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababdelo"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; |
@@ -35,8 +38,9 @@
 |                                                                                     Contribution Graph                                                                                     |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/ababdelo/ababdelo/blob/output/github-contribution-grid-snake.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> <br> |
+</details>
 
- <h1></h1>
+<h1></h1>
  
 <p> <h3 align="center">Connect with me:</h3><div align="center"><a href="https://www.facebook.com/imdstl" target="_blank" rel="noopener noreferrer" ><img align="center" src="https://img.icons8.com/arcade/64/null/facebook-new.png" alt="facebook" height="64" width="64" /></a><a rel="noopener noreferrer" target="_blank" href="https://instagram.com/ababdelo" ><img align="center" src="https://img.icons8.com/arcade/64/null/instagram-new.png" alt="instagram" height="64" width="64" /></a><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCB35KWpsyetSJnlpzWL4qfw"><img align="center" src="https://img.icons8.com/arcade/64/null/youtube-play.png" alt="youtube" height="64" width="64" /></a><a href="https://discord.com/users/939836724673126452" target="_blank" rel="noopener noreferrer" alt="discord"> <img src="https://img.icons8.com/stickers/100/null/discord.png" width="64" height="64" align="center"/></a></div>
 </p>
