@@ -1,7 +1,7 @@
   <br>
   <h1 align="center">  Hi, I'm &nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2770BB&vCenter=true&width=435&lines=ababdelo" alt="Typing SVG" /> <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Get Greetings animated gif" height="45" width="45" align="center"/>  </h1>
   <h2 align="center">A student at : <br> <img align="center" width="240" height="240" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" />
-<h3 align="center">  from : <br> <img align="center" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" /></h2>
+<h3 align="center">  from : <br> <img align="center" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Flag_of_Morocco" /></h2>
   <br>
   
   |       `42Cursus`       |     `1337 Piscine`     |
@@ -19,7 +19,7 @@
   
   - `😄` Can u know the meanin' of this Pronouns: `imdstl`
 
-  - `📫` How to reach me : **ababdelou.imdtsl@gmail.com**
+  - `📫` How to reach me : **ababdelo@student.1337.ma**
 
 <h1></h1>
 
