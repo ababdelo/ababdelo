@@ -25,12 +25,9 @@
 
 <br>
 
-<details align="center"> <br>
-  <summary> Click there for more details</summary>
-
 |                                                                                        ` ababdelo's GitHub Stats `                                                                                        |                                                                                                                  ` Most Used Languages `                                                                                                                  |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ababdelo&show_icons=true"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; | <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababdelo"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; |
+| <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ababdelo&show_icons=true"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; | <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababdelo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; |
 
 <h1></h1>
 <br>
@@ -38,7 +35,6 @@
 |                                                                                     Contribution Graph                                                                                     |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/ababdelo/ababdelo/blob/output/github-contribution-grid-snake.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> <br> |
-</details>
 
 <h1></h1>
  
