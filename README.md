@@ -1,5 +1,5 @@
   <br>
-  <h1 align="center">  Hi, I'm &nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2770BB&vCenter=true&width=435&lines=ababdelo" alt="Typing SVG" /> <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Get Greetings animated gif" height="45" width="45" align="center"/>  </h1>
+  <h1 align="center">  Hi, I'm &nbsp;&nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2770BB&vCenter=true&width=435&lines=ababdelo" alt="Typing SVG" /> <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Get Greetings animated gif" height="45" width="45" align="center"/>  </h1>
   <h2 align="center">A student at : <br> <img align="center" width="240" height="240" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" />
 <h3 align="center">  from : <br> <img align="center" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Flag_of_Morocco" /></h2>
   <br>
@@ -9,15 +9,11 @@
   | <br> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=21&coalitionId=78" alt="ababdelo's 42 stats" /> </a> <br> <br> | <br> <a href="https://github.com/JaeSeoKim/badge42"> <img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=9&coalitionId=piscine" alt="ababdelo's 42 stats" /> </a> <br> <br> |
 -->
   <h1></h1>
-
-  <br>
-
-  <h2 align="center"><img align="center" src="https://badge.mediaplus.ma/darkblue/ababdelo"/></h2>
+  
+  <h2 align="center"><img align="center" src="https://badge.mediaplus.ma/darkblue/ababdelo" /></h2>
   
   <br>
   
-  <h1></h1>
-
   - `🔭` I’m currently working on 42Cursus
 
   - `🌱` I’m currently learning:  <p style="text-align: center;"> `42Cursus` <span> <img align="center" src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="bash" width="32" height="32"/><img align="center" src="https://img.icons8.com/color/48/null/linux--v1.png" alt="c" width="32" height="32"/> <img align="center" src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png" alt="c++" width="32" height="32"> </img> </span> <br> `Desktop Development Application & Mobile Development Application` <span> <img align="center" src="https://img.icons8.com/fluency/48/000000/c-sharp-logo.png" width="32" height="32" alt="c#"/> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/912px-Microsoft_.NET_logo.svg.png?20200524040737" width="32" height="32" alt=".NetFrameork"/> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/968px-Xamarin-logo.svg.png?20141229164111" width="82" height="35" alt="Xamarin"/></span>
