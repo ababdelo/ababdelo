@@ -6,7 +6,7 @@
 
   |       `42Cursus`       |     `1337 Piscine`     |
   | :--------------------: | :--------------------: |
-  | <br> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=21&coalitionId=78" alt="ababdelo's 42 stats" /> </a> <br> <br> | <br> <a href="https://github.com/JaeSeoKim/badge42"> <img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=9&coalitionId=piscine" alt="ababdelo's 42 stats" /> </a> <br> <br> |
+  | <br> <a><img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=21&coalitionId=78" alt="ababdelo's 42 stats" /> </a> <br> <br> | <br> <a> <img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=9&coalitionId=piscine" alt="ababdelo's 42 stats" /> </a> <br> <br> |
 
   <h1></h1>
   <!---
