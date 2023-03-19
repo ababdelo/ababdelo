@@ -4,11 +4,13 @@
 <h3 align="center">  from : <br> <img align="center" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Flag_of_Morocco" /></h2>
   <br>
 
-  |       `42Cursus`       |     `1337 Piscine`     |
-  | :--------------------: | :--------------------: |
+  ---
+  
+  |       <p align="center"> `42Cursus` </p>       |    <p align="center"> `1337 Piscine` </p>    |
+  | :--------------------------------------------: | :------------------------------------------: |
   | <br> <a><img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=21&coalitionId=78" alt="ababdelo's 42 stats" /> </a> <br> <br> | <br> <a> <img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=9&coalitionId=piscine" alt="ababdelo's 42 stats" /> </a> <br> <br> |
 
-  <h1></h1>
+---
   <!---
   <h2 align="center"><img align="center" src="https://badge.mediaplus.ma/darkblue/ababdelo" /></h2>
   --->
@@ -25,22 +27,30 @@
 
   - `📫` How to reach me : **ababdelo@student.1337.ma**
 
-<h1></h1>
+---
 
 <br>
 
-|                                                                                        ` ababdelo's GitHub Stats `                                                                                        |                                                                                                                  ` Most Used Languages `                                                                                                                  |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<details align="center">	
+<summary><b>  My  <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"> Chart</b></summary>
+<br />
+
+|            <p align="center"> ` ababdelo's GitHub Stats ` </p>         |           <p align="center"> ` Most Used Languages ` </p>                    |
+| :--------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ababdelo&show_icons=true&theme=transparent"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; | <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababdelo&layout=compact"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; |
 
-<h1></h1>
+---
 <br>
+  
+</details>
 
-|                                                                                     Contribution Graph                                                                                     |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github.com/ababdelo/ababdelo/blob/output/github-contribution-grid-snake.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> <br> |
+---
 
-<h1></h1>
+|                                                       <p align="center"> `Contribution Graph` </p>                                                     |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github.com/ababdelo/ababdelo/blob/output/github-contribution-grid-snake.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> <br> |
+
+---
  
 <p> <h3 align="center">Connect with me:</h3><div align="center"><a href="https://www.facebook.com/imdstl" target="_blank" rel="noopener noreferrer" ><img align="center" src="https://img.icons8.com/arcade/64/null/facebook-new.png" alt="facebook" height="64" width="64" /></a><a rel="noopener noreferrer" target="_blank" href="https://instagram.com/ababdelo" ><img align="center" src="https://img.icons8.com/arcade/64/null/instagram-new.png" alt="instagram" height="64" width="64" /></a><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCB35KWpsyetSJnlpzWL4qfw"><img align="center" src="https://img.icons8.com/arcade/64/null/youtube-play.png" alt="youtube" height="64" width="64" /></a><a href="https://discord.com/users/939836724673126452" target="_blank" rel="noopener noreferrer" alt="discord"> <img src="https://img.icons8.com/stickers/100/null/discord.png" width="64" height="64" align="center"/></a></div>
 </p>
