@@ -53,7 +53,7 @@
 | <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github.com/ababdelo/ababdelo/blob/output/github-contribution-grid-snake.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> <br> |
 
 ---
-<div align="center"><a align="center" font-size="32px">Buy me a </a><a href="https://www.buymeacoffee.com/ababdelo" target="_blank"><img src="https://img.icons8.com/external-nawicon-flat-nawicon/64/null/external-coffee-fast-food-nawicon-flat-nawicon.png" alt="Buy Me A Coffee" height="32" width="32" align="center" ></a></div>
+<div align="center"><h4 align="center">Buy me a </h4><a href="https://www.buymeacoffee.com/ababdelo" target="_blank"><img src="https://img.icons8.com/external-nawicon-flat-nawicon/64/null/external-coffee-fast-food-nawicon-flat-nawicon.png" alt="Buy Me A Coffee" height="56" width="56" align="center" ></a></div>
 <div align="center">
 
 #### Show some <img align="center" src="https://img.icons8.com/color/48/null/two-hearts.png" width="32" height="32" /> by <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/null/external-stars-space-exploration-soft-fill-soft-fill-juicy-fish.png" align="center" width="32" height="32"/> some of the repositories!
@@ -62,7 +62,7 @@
 
 ---
 
-<div align="center"> <a style="text-decoration:none; font-size:32px; align:center;" href="https://ababdelo.github.io/WEB-SMC-BTNS" target="_blank"><img src="https://img.icons8.com/color/56/null/add-contact-to-company.png" width="56" height="56" align="center"/>&nbsp;Contact or Follow me</a></div>
+<div align="center"> <h4>Contact or Follow me</h4> <a style="text-decoration:none; font-size:32px; align:center;" href="https://ababdelo.github.io/WEB-SMC-BTNS" target="_blank"><img src="https://img.icons8.com/color/56/null/add-contact-to-company.png" width="56" height="56" /></a></div>
 
 <!---
 <div align="center"><a href="https://www.facebook.com/imdstl" target="_blank" rel="noopener noreferrer" ><img align="center" src="https://img.icons8.com/arcade/64/null/facebook-new.png" alt="facebook" height="64" width="64" /></a><a rel="noopener noreferrer" target="_blank" href="https://instagram.com/ababdelo" ><img align="center" src="https://img.icons8.com/arcade/64/null/instagram-new.png" alt="instagram" height="64" width="64" /></a><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCB35KWpsyetSJnlpzWL4qfw"><img align="center" src="https://img.icons8.com/arcade/64/null/youtube-play.png" alt="youtube" height="64" width="64" /></a><a href="https://discord.com/users/939836724673126452" target="_blank" rel="noopener noreferrer" alt="discord"> <img src="https://img.icons8.com/stickers/100/null/discord.png" width="64" height="64" align="center"/></a></div>
