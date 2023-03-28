@@ -19,13 +19,13 @@
   - `🔭` I’m currently working on my `42Cursus`
 
   - `🌱` I’m currently learning:  <p style="text-align: center;"> `42Cursus` <span> <img align="center" src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="bash" width="32" height="32"/><img align="center" src="https://img.icons8.com/color/48/null/linux--v1.png" alt="c" width="32" height="32"/> <img align="center" src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png" alt="c++" width="32" height="32"> </img> </span> <br> `Desktop Development Application & Mobile Development Application` <span> <img align="center" src="https://img.icons8.com/fluency/48/000000/c-sharp-logo.png" width="32" height="32" alt="c#"/> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/912px-Microsoft_.NET_logo.svg.png?20200524040737" width="32" height="32" alt=".NetFrameork"/> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/968px-Xamarin-logo.svg.png?20141229164111" width="82" height="35" alt="Xamarin"/></span> <br>
- `Web Developement`<span> <img align="center" width="32" height="32" src="https://img.icons8.com/color/64/null/html-5--v1.png" alt="html5"/> <img src="https://img.icons8.com/color/48/null/css3.png" align="center" width="32" height="32" alt="css"> <img src="https://img.icons8.com/color/48/null/javascript--v1.png" align="center" width="32" height="32" alt="js" /> </span>
+ `Web Developement`<span> <img align="center" width="32" height="32" src="https://img.icons8.com/color/64/null/html-5--v1.png" alt="html5"/> <img src="https://img.icons8.com/color/48/null/css3.png" align="center" width="32" height="32" alt="css"> <img src="https://img.icons8.com/color/48/null/javascript--v1.png" align="center" width="32" height="32" alt="js" /> <img width="32" height="32" alt="markdown" align="center" src="https://img.icons8.com/color/48/null/markdown.png"/> </span>
 
 </p> 
 
   - `😊` <span> <a> I’m extremely interrested in : </a> <img align="center" src="https://img.icons8.com/fluency/48/null/robot-2.png" width="26" height="26"/> <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32"/> <img align="center" src="https://img.icons8.com/color/48/null/electronics.png" width="32" height="32" /> <img src="https://img.icons8.com/color/48/null/raspberry-pi.png" align="center" width="32" height="32"/> <img src="https://img.icons8.com/external-colored-outline-lafs/64/null/external-IoT-iiot-colored-outline-lafs.png" align="center" width="32" height="32"/></span>
   
-  - `😄` Can u know the meanin' of this Pronouns: `imdstl`
+  - `😄` Let me know if u guessed the meanin' of : `imdstl`
 
   - `📫` How to reach me : **ababdelo@student.1337.ma**
 
