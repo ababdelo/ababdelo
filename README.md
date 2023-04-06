@@ -23,7 +23,7 @@
 
 </p> 
 
-  - `😊` <span> <a> I’m extremely interrested in : </a> <img align="center" href="#" src="https://img.icons8.com/fluency/48/null/robot-2.png" width="32" height="32"/> <img href="#" align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32"/> <img href="#" align="center" src="https://img.icons8.com/color/48/null/electronics.png" width="32" height="32" /> <img href="#" src="https://img.icons8.com/color/48/null/raspberry-pi.png" align="center" width="32" height="32"/> <img href="#" src="https://img.icons8.com/external-colored-outline-lafs/64/null/external-IoT-iiot-colored-outline-lafs.png" align="center" width="32" height="32"/></span>
+  - `😊` <span> <a> I’m extremely interested in : </a> <img align="center" href="#" src="https://img.icons8.com/fluency/48/null/robot-2.png" width="32" height="32"/> <img href="#" align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32"/> <img href="#" align="center" src="https://img.icons8.com/color/48/null/electronics.png" width="32" height="32" /> <img href="#" src="https://img.icons8.com/color/48/null/raspberry-pi.png" align="center" width="32" height="32"/> <img href="#" src="https://img.icons8.com/external-colored-outline-lafs/64/null/external-IoT-iiot-colored-outline-lafs.png" align="center" width="32" height="32"/></span>
   
   - `😄` Let me know if u guessed the meanin' of : `imdstl`
 
