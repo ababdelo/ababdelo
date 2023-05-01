@@ -1,9 +1,14 @@
   <br>
   <h1 align="center">  Hi, I'm &nbsp;&nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2770BB&vCenter=true&width=435&lines=ababdelo" alt="Typing SVG" /> <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Get Greetings animated gif" height="45" width="45" align="center"/>  </h1>
+  
+  <div align="center"><h2 align="center"> A Student at : </h2><a href="https://www.um6p.ma/en/ecole-1337" target="_blank"><img src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" alt="1337" width="240" height="240" align="center" ></a></div>
+<div align="center">
+  
+  <!---  
   <h2 align="center">A student at : <br> <img align="center" width="240" height="240" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" />
-<h3 align="center">  from : <br> <img align="center" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" href="#" alt="Flag_of_Morocco" /></h2>
+  <h3 align="center">  from : <br> <img align="center" width="240" height="240"             src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" href="#" alt="Flag_of_Morocco" /></h2>
   <br>
-
+  --->
   ---
   
   |       <p align="center"> `42Cursus` </p>       |    <p align="center"> `1337 Piscine` </p>    |
