@@ -48,12 +48,18 @@
 | :--------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ababdelo&show_icons=true&theme=transparent"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; | <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababdelo&layout=compact&theme=transparent"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; |
 
----
 <br>
   
 </details>
 
+  <p align="center">
+	<img alt="YOPI's visitors" src="https://komarev.com/ghpvc/?username=ababdelo&color=grey&style=flat&label=visitors" />
+	<img alt="YOPI's followers" src="https://img.shields.io/github/followers/ababdelo?color=grey" />
+	<img alt="YOPI's stars" src="https://img.shields.io/github/stars/ababdelo?color=grey" />
+</p>
+
 ---
+
 
 |                                                       <p align="center"> `Contribution Graph` </p>                                                     |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -74,5 +80,6 @@
 <!---
 <div align="center"><a href="https://www.facebook.com/imdstl" target="_blank" rel="noopener noreferrer" ><img align="center" src="https://img.icons8.com/arcade/64/null/facebook-new.png" alt="facebook" height="64" width="64" /></a><a rel="noopener noreferrer" target="_blank" href="https://instagram.com/ababdelo" ><img align="center" src="https://img.icons8.com/arcade/64/null/instagram-new.png" alt="instagram" height="64" width="64" /></a><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCB35KWpsyetSJnlpzWL4qfw"><img align="center" src="https://img.icons8.com/arcade/64/null/youtube-play.png" alt="youtube" height="64" width="64" /></a><a href="https://discord.com/users/939836724673126452" target="_blank" rel="noopener noreferrer" alt="discord"> <img src="https://img.icons8.com/stickers/100/null/discord.png" width="64" height="64" align="center"/></a></div>
 --->
+
 </p>
 
