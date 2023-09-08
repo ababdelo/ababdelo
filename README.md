@@ -10,7 +10,6 @@
   <h3 align="center">  from : <br> <img align="center" width="240" height="240"             src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" href="#" alt="Flag_of_Morocco" /></h2>
   <br>
   --->
-  ---
   
   |       <p align="center"> `42Cursus` </p>       |    <p align="center"> `1337 Piscine` </p>    |
   | :--------------------------------------------: | :------------------------------------------: |
@@ -26,7 +25,9 @@
 
   - `🌱` I’m currently learning:  <p style="text-align: center;"> `42Cursus` <span> <a href="https://www.programiz.com/c-programming" target="_blank"><img align="center" href="#" src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="bash" width="32" height="32"/></a> <a href="https://linuxcommand.org/lc3_lts0010.php" target="_blank"><img align="center" href="#" src="https://img.icons8.com/color/48/null/linux--v1.png" alt="c" width="32" height="32"/> <a href="https://www.programiz.com/cpp-programming" target="_blank"> <img href="#" align="center" src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png" alt="c++" width="32" height="32"></a> </span>
 
+<!--
 ` Desktop Development Application & Mobile Development Application ` <span> <a href="https://www.programiz.com/csharp-programming" target="_blank"> <img href="#" align="center" src="https://img.icons8.com/fluency/48/000000/c-sharp-logo.png" width="32" height="32" alt="c#"/></a> <a href="https://dotnet.microsoft.com/en-us/learn" target="_blank"> <img align="center" href="#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/912px-Microsoft_.NET_logo.svg.png?20200524040737" width="32" height="32" alt=".NetFrameork"/></a> </span>
+--->
 
  ` Web Developement `<span> <a href="https://www.tutorialspoint.com/html/index.htm" target="_blank"> <img href="#" align="center" width="32" height="32" src="https://img.icons8.com/color/64/null/html-5--v1.png" alt="html5"/></a> <a href="https://www.markdownguide.org/getting-started/" target="_blank"> <img width="32" height="32" alt="markdown" align="center" href="#" src="https://img.icons8.com/color/48/null/markdown.png"/></a> <a href="https://www.tutorialspoint.com/css/index.htm" target="_blank"> <img href="#" src="https://img.icons8.com/color/48/null/css3.png" align="center" width="32" height="32" alt="css"></a> <a href="https://www.javascripttutorial.net/" target="_blank"> <img href="#" src="https://img.icons8.com/color/48/null/javascript--v1.png" align="center" width="32" height="32" alt="js" /></a> <a href="https://www.phptutorial.net/" target="_blank"> <img align="center" width="32" height="32" src="https://pngimg.com/uploads/php/php_PNG27.png" alt="php"/></a>  <a href="https://www.tutorialspoint.com/mysql/index.htm" target="_blank"> <img align="center" width="32" height="32" src="https://img.icons8.com/?size=512&id=hYoELNwniGhi&format=png" alt="mysql"/></a> </span>
 </p> 
@@ -63,6 +64,8 @@
 
 ---
 
+<!--
+
 <br>
 
 |                                                       <p align="center"> `Contribution Graph` </p>                                                     |
@@ -70,6 +73,8 @@
 | <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github.com/ababdelo/ababdelo/blob/output/github-contribution-grid-snake.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> <br> |
 
 ---
+--->
+
 <div align="center"><h4 align="center">Buy me a </h4><a href="https://www.buymeacoffee.com/ababdelo" target="_blank"><img src="https://img.icons8.com/external-nawicon-flat-nawicon/64/null/external-coffee-fast-food-nawicon-flat-nawicon.png" alt="Buy Me A Coffee" height="56" width="56" align="center" ></a></div>
 <div align="center">
 
