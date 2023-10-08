@@ -1,20 +1,17 @@
   <br>
-  <h1 align="center">  Hi, I'm &nbsp;&nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2770BB&vCenter=true&width=435&lines=ababdelo" alt="Typing SVG" /> <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Get Greetings animated gif" height="45" width="45" align="center"/>  </h1>
+  <p align="center"> <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Get Greetings animated gif" height="45" width="45" align="center"/> <h2 align="center">Hi, I'm : &nbsp;&nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2770BB&vCenter=true&width=435&lines=ababdelo" alt="Typing SVG" /> </h2> </p>
+
+ <h2 align="center">A student at : <br> <img align="center" width="240" height="240" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" </h2>
   
-  
-  <div align="center"><h2 align="center"> A Student at : </h2><a href="https://www.um6p.ma/en/ecole-1337" target="_blank"><img src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" alt="1337" width="240" height="240" align="center" ></a></div>
+<!--  <div align="center"><p align="center"> A Student at : </p><a href="https://www.um6p.ma/en/ecole-1337" target="_blank"><img src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" alt="1337" width="240" height="240" align="center" ></a></div>
 <div align="center">
+--->
   
   <!---  
   <h2 align="center">A student at : <br> <img align="center" width="240" height="240" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" />
   <h3 align="center">  from : <br> <img align="center" width="240" height="240"             src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" href="#" alt="Flag_of_Morocco" /></h2>
   <br>
   --->
-  
-  |       <p align="center"> `42Cursus` </p>       |    <p align="center"> `1337 Piscine` </p>    |
-  | :--------------------------------------------: | :------------------------------------------: |
-  | <br> <a><img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=21&coalitionId=78" alt="ababdelo's 42 stats" /> </a> <br> <br> | <br> <a> <img src="https://badge42.vercel.app/api/v2/cld5ucp2200160gma02j0hbej/stats?cursusId=9&coalitionId=piscine" alt="ababdelo's 42 stats" /> </a> <br> <br> |
-
 ---
   <!---
   <h2 align="center"><img align="center" src="https://badge.mediaplus.ma/darkblue/ababdelo" /></h2>
@@ -23,6 +20,8 @@
   
   - `🔭` I’m currently working on my `42Cursus`
 
+ <br> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/ababdelo" alt="ababdelo's 42 stats" /></a> <br>
+  
   - `🌱` I’m currently learning:  <p style="text-align: center;"> `42Cursus` <span> <a href="https://www.programiz.com/c-programming" target="_blank"><img align="center" href="#" src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="bash" width="32" height="32"/></a> <a href="https://linuxcommand.org/lc3_lts0010.php" target="_blank"><img align="center" href="#" src="https://img.icons8.com/color/48/null/linux--v1.png" alt="c" width="32" height="32"/> <a href="https://www.programiz.com/cpp-programming" target="_blank"> <img href="#" align="center" src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png" alt="c++" width="32" height="32"></a> </span>
 
 <!--
@@ -48,9 +47,18 @@
 <summary> My  <img align="center" href="#" src="https://img.icons8.com/glyph-neue/64/2f2f2f/github.png" width="56" height="56"> Chart</b></summary>
 <br />
 
-|            <p align="center"> ` ababdelo's GitHub Stats ` </p>         |           <p align="center"> ` Most Used Languages ` </p>                    |
-| :--------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-| <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-stats-ababdelo.vercel.app/api?username=ababdelo&show_icons=true&theme=transparent"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; | <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-stats-ababdelo.vercel.app/api/top-langs/?username=ababdelo&layout=compact&theme=transparent"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &nbsp; |
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=TAYBI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/ -->
+
+<table align="center">
+  <tr>
+    <td align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababdelo&layout=compact&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Top Languages" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ababdelo&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ababdelo&bg_color=0d1117&color=6196ff&line=15508e&point=ffffff&area=true&hide_border=true" /></td>
+  </tr>
+</table>
 
 <br>
   
