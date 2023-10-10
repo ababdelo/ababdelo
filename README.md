@@ -20,7 +20,7 @@
   
   - `🔭` I’m currently working on my `42Cursus`
 
- <br> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/ababdelo" alt="ababdelo's 42 stats" /></a> <br>
+ <br> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ababdelo" alt="ababdelo's 42 stats" /></a> <br>
   
   - `🌱` I’m currently learning:  <p style="text-align: center;"> `42Cursus` <span> <a href="https://www.programiz.com/c-programming" target="_blank"><img align="center" href="#" src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="bash" width="32" height="32"/></a> <a href="https://linuxcommand.org/lc3_lts0010.php" target="_blank"><img align="center" href="#" src="https://img.icons8.com/color/48/null/linux--v1.png" alt="c" width="32" height="32"/> <a href="https://www.programiz.com/cpp-programming" target="_blank"> <img href="#" align="center" src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png" alt="c++" width="32" height="32"></a> </span>
 
