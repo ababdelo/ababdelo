@@ -1,5 +1,5 @@
   <br>
-  <h2 align="center"> <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Get Greetings animated gif" height="45" width="45" align="center"/> <h2 align="center">Hi, I'm : &nbsp;&nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2770BB&vCenter=true&width=435&lines=ababdelo" alt="Typing SVG" /> </h2> </h2>
+  <h2 align="center"> <!--<img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Get Greetings animated gif" height="45" width="45" align="center"/> --> Hi, I'm : &nbsp;&nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2770BB&vCenter=true&width=435&lines=ababdelo" alt="Typing SVG" /> </h2>
 
  <h2 align="center">A student at : <br> <img align="center" width="240" height="240" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" </h2>
   
