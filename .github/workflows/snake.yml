@@ -4,16 +4,16 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-      # every 1 hour
+    # Every 1 hour
     - cron: "0 * * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Also run on every push on the main branch
   push:
     branches:
-    - main
+      - main
 
 # The sequence of runs in this workflow:
 jobs:
@@ -25,7 +25,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
     
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
@@ -33,11 +33,11 @@ jobs:
         with:
           github_user_name: ababdelo
           outputs: |
-                dist/github-contribution-grid-snake.svg
-                dist/github-contribution-grid-snake-dark.svg?palette=dark
-                dist/github-contribution-grid-snake.gif?color_snake=#304B7F&color_dots=#E6F0FF,#A4C6E2,#7EA2C1,#5B84A1,#4D78CC
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=dark
+            dist/github-contribution-grid-snake.gif?color_snake=#304B7F&color_dots=#E6F0FF,#A4C6E2,#7EA2C1,#5B84A1,#4D78CC
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
         run: git status
