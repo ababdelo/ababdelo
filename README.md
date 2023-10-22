@@ -77,7 +77,7 @@
 
 |                                                       <p align="center"> `Contribution Graph` </p>                                                     |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github.com/ababdelo/ababdelo/blob/output/github-contribution-grid-snake.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> <br> |
+| <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github.com/ababdelo/ababdelo/blob/output/github-contribution-grid-snake-dark.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> <br> |
 
 ---
 
