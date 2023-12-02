@@ -3,7 +3,7 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=2770BB&lines=Hi+There!;+I'm+Abderrahmane+Abdelouafi+!;" />
  </h2>
 
- <h2 align="center">A student at : <br> <img align="center" width="240" height="240" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" </h2>
+ <h2 align="center">A student at : <br> <img align="center" width="450" height="250" src="https://media.discordapp.net/attachments/1044169030619115540/1180455421278953512/wDfEhxmsPMkiwAAAABJRU5ErkJggg.png?ex=657d7bc8&is=656b06c8&hm=0fd162f7034a8bddc585d6f263c9c0fffac2473ae8f2fd2e5acef03fa5d6d09c&=&format=webp&quality=lossless" </h2>
   
 <!--  <div align="center"><p align="center"> A Student at : </p><a href="https://www.um6p.ma/en/ecole-1337" target="_blank"><img src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" alt="1337" width="240" height="240" align="center" ></a></div>
 <div align="center">
