@@ -1,6 +1,6 @@
   <br>
   <h2 align="center"> <img align="center" src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Get Greetings animated gif" height="45" width="45" align="center"/>
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=2770BB&lines=Hi+There!;+I'm+Abderrahmane+Abdelouafi+!;" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Gugi&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=2770BB&lines=Hi+There!;+I'm+Abderrahmane+Abdelouafi+!;" />
  </h2>
 
 <h2 align="center">A student at: <br> <br> 
@@ -19,7 +19,7 @@
   --->
   <br>
 
-  <h2 align="center">
+  <h2 align="center" font-family="Gugi">
 	  
   - `🔭` I’m currently working on my `42Cursus`
 
