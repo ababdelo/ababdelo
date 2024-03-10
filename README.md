@@ -69,9 +69,9 @@
 </details>
 
   <p align="center">
-	<img alt="YOPI's visitors" src="https://komarev.com/ghpvc/?username=ababdelo&color=2770BB&style=flat&label=visitors" />
-	<img alt="YOPI's followers" src="https://img.shields.io/github/followers/ababdelo?color=2770BB" />
-	<img alt="YOPI's stars" src="https://img.shields.io/github/stars/ababdelo?color=2770BB" />
+	<img alt="ababdelo's profile views" src="https://komarev.com/ghpvc/?username=ababdelo&color=blue&style=flat" />
+	<img alt="ababdelo's followers" src="https://img.shields.io/github/followers/ababdelo?color=2770BB" />
+	<img alt="ababdelo's stars" src="https://img.shields.io/github/stars/ababdelo?color=2770BB" />
 </p>
 
 ---
