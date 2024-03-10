@@ -4,7 +4,7 @@
  </h2>
 
 <h2 align="center">A student at: <br> <br> 
-  <img align="center" width="550" height="350" src="https://media.discordapp.net/attachments/1044169030619115540/1180483149139017799/image.png?ex=657d959b&is=656b209b&hm=9dbd0397aed22ba0e48963a87457119f9e16e6fa3b3ee0d44acf0cefa6bfebca&=&format=webp&quality=lossless">
+  <img align="center" width="550" height="350" src="https://media.discordapp.net/attachments/1044169030619115540/1180483149139017799/image.png?ex=65fec89b&is=65ec539b&hm=b7687a58675b4a06edb3cd863c09695a6bd4409858fc04e4df80f2f79778c6af&=&format=webp&quality=lossless">
 </h2>
 
   
