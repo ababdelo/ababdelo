@@ -48,7 +48,7 @@
 <br>
 
 <details align="center">	
-<summary> <h2> My Chart  <img align="center" href="#" src="https://img.icons8.com/glyph-neue/64/2f2f2f/github.png" width="56" height="56"> Details</h2></summary>
+<summary> <h2> My  <img align="center" href="#" src="https://img.icons8.com/glyph-neue/64/2f2f2f/github.png" width="56" height="56"> CHart Details</h2></summary>
 <br />
 
 
