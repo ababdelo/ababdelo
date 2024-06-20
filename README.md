@@ -44,9 +44,14 @@
 
 <br>
 
+  - `💼` My Portfolio : **https://ababdelo.github.io/portfolio/**
+
+<br>
+
   - `📫` How to reach me : **ababdelo@student.1337.ma**
 
 <br>
+
 </h2>
 
 ---
@@ -54,7 +59,7 @@
 <br>
 
 <details align="center">	
-<summary> <h2 font-family="Gugi"> My  <img align="center" href="#" src="https://img.icons8.com/glyph-neue/64/2f2f2f/github.png" width="56" height="56"> Chart Details</h2></summary>
+<summary> <h2 font-family="Gugi"> Click to see my  <img align="center" href="#" src="https://img.icons8.com/glyph-neue/64/2f2f2f/github.png" width="56" height="56"> Chart Details</h2></summary>
 <br />
 
 
@@ -97,15 +102,5 @@
 ### Or Show some <img align="center" href="#" src=".github/assets/heart.png" width="32" height="32" /> by <img href="#" src=".github/assets/stars.png" align="center" width="32" height="32"/> some of the repositories!
 
 </div>
-
----
-
-<div align="center"> <h2>Contact or Follow me on:</h2> <a  style="text-decoration:none; font-size:32px; align:center;" href="https://ababdelo.github.io/W-SM/" target="_blank"><img src=".github/assets/contact.png" width="56" height="56" /></a></div>
-
-<!---
-<div align="center"><a href="https://www.facebook.com/imdstl" target="_blank" rel="noopener noreferrer" ><img align="center" src="https://img.icons8.com/arcade/64/null/facebook-new.png" alt="facebook" height="64" width="64" /></a><a rel="noopener noreferrer" target="_blank" href="https://instagram.com/ababdelo" ><img align="center" src="https://img.icons8.com/arcade/64/null/instagram-new.png" alt="instagram" height="64" width="64" /></a><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCB35KWpsyetSJnlpzWL4qfw"><img align="center" src="https://img.icons8.com/arcade/64/null/youtube-play.png" alt="youtube" height="64" width="64" /></a><a href="https://discord.com/users/939836724673126452" target="_blank" rel="noopener noreferrer" alt="discord"> <img src="https://img.icons8.com/stickers/100/null/discord.png" width="64" height="64" align="center"/></a></div>
---->
-
-</p>
 
 ---
