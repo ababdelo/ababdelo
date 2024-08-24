@@ -44,7 +44,7 @@
 
 <br>
 
-  - `💼` My Portfolio : **https://ababdelo.github.io/portfolio/**
+  - `💼` My Portfolio : **https://edunwant42.tech**
 
 <br>
 
