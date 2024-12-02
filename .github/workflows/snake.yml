@@ -33,10 +33,10 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ababdelo
+          palette: dark
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake.svg?palette=dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: false  # Ensures workflow fails if this step fails
