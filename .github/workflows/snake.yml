@@ -1,0 +1,63 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+name: Generate Snake
+
+# Controls when the action will run.
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+
+  # Allow running the Action manually from the Actions tab.
+  workflow_dispatch:
+
+  # Also run on every push to the main branch.
+  push:
+    branches:
+      - main
+
+# The sequence of runs in this workflow:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Debug Workflow
+        run: |
+          echo "Listing contents of the repository:"
+          ls -R
+
+      - name: Generate the snake files in './dist/'
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ababdelo
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.svg?palette=dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: false  # Ensures workflow fails if this step fails
+
+      - name: Show build status
+        run: git status
+
+      - name: List generated files
+        run: |
+          echo "Contents of the dist directory:"
+          ls -R dist
+
+      - name: Push new files to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Update snake animations with dark mode"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: false  # Ensures workflow fails if this step fails
+
+      - name: Notify completion
+        run: echo "Workflow completed successfully."
