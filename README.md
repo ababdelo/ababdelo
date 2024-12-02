@@ -14,7 +14,7 @@ I'm a tech tinkerer from Morocco who blends creativity and technical expertise. 
 <table align="center">
   <tr>
     <td align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababdelo&layout=compact&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Top Languages" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ababdelo&theme=github-dark-blue&background=212429&hide_border=true&border_radius=5" alt="GitHub Streak" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ababdelo&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" /></td>
   </tr>
 </table>
 
