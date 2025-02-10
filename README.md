@@ -2,6 +2,8 @@
 
 I'm a tech tinkerer from Morocco who blends creativity and technical expertise. I’m driven by a passion for building, whether it’s developing innovative software, designing electronic circuits, or working on robotics projects. With a mindset rooted in curiosity, I dedicate my time to exploring new technologies, tackling complex challenges, and contributing to the open-source ecosystem. Let's connect and create solutions that push boundaries!
 
+---
+
 ### About Me
 
 - **🔭 Currently Working On**: IoT and Smart Home projects, integrating hardware and software.
@@ -12,7 +14,8 @@ I'm a tech tinkerer from Morocco who blends creativity and technical expertise. 
 
 ---
 
-### GitHub Stats
+
+<!-- ### GitHub Stats
 
 <table align="center">
   <tr>
@@ -23,19 +26,25 @@ I'm a tech tinkerer from Morocco who blends creativity and technical expertise. 
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ababdelo&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" />
     </td>
   </tr>
-</table>
+</table
+
+<!-- <table>
+  <tr>
+    <td colspan="2" align="center">
+    </td>
+  </tr>
+</table> -->
 
 ### Activity
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ababdelo&bg_color=212429&color=B0CAFF&line=6E81A5&point=F5F5F5&area=true&hide_border=false" />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ababdelo&bg_color=212429&color=B0CAFF&line=6E81A5&point=F5F5F5&area=true&hide_border=false" />
+</p>
+
 
 ### Contribution Graph
+
 
 <p align="center">
   <img src="https://github.com/ababdelo/ababdelo/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
