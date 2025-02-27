@@ -35,7 +35,7 @@ jobs:
           github_user_name: ababdelo
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=dark&color_snake=%23304B7F&color_dots=%233E464A,%23A4C6E2,%237EA2C1,%235B84A1,%234D78CC&background=transparent
+            dist/github-contribution-grid-snake-dark.svg?palette=dark&color_snake=%23304B7F&color_dots=%23A4C6E2,%237EA2C1,%235B84A1,%234D78CC,%233E464A&background=transparent
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: false  # Ensures workflow fails if this step fails
@@ -53,7 +53,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update snake animations with dark mode"
+          commit_message: "Fix snake contribution colors: solid = more, transparent = less"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: false  # Ensures workflow fails if this step fails
