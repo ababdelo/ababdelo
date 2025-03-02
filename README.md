@@ -72,7 +72,7 @@ I'm a tech tinkerer from Morocco who blends creativity and technical expertise. 
 
 <br>
 
-###  [ ☎️ Contact ]
+### ☎️ [ Contact ]
 
 For any inquiries or collaboration opportunities, please reach out to me at:
 
