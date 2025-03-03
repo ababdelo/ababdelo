@@ -39,7 +39,15 @@ I'm a tech tinkerer from Morocco who blends creativity and technical expertise. 
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ababdelo&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" />
     </td>
   </tr>
-</table
+</table>
+
+<!--
+<br>
+
+<p align="center">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ababdelo?cardType=level&theme=github-dark&preferLogin=false&Border=646464FA" alt="rank stat"/>
+</p>
+--->
 
 <br>
 
