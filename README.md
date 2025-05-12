@@ -14,13 +14,17 @@ Hello, I'm Abderrahmane Abdelouafi
 
 ### 🧑‍💻 [ About Me ]
 
-I'm a tech tinkerer from Morocco who blends creativity and technical expertise. I’m driven by a passion for building, whether it’s developing innovative software, designing electronic circuits, or working on robotics projects. With a mindset rooted in curiosity, I dedicate my time to exploring new technologies, tackling complex challenges, and contributing to the open-source ecosystem. Let's connect and create solutions that push boundaries!
+I'm a tech tinkerer and innovator from Morocco, blending creativity with hands-on technical expertise. My journey started at **1337 IT School**, where I honed problem-solving skills through peer learning and low-level programming. Now, I'm further sharpening my craft through the **ALX Software Engineering Program**, diving deep into real-world systems and full-stack development.
 
-- **🔭 Currently Working On**: `CredlyMan` - A secure credentials manager web platform.
-- **🌱 Learning**: Advanced C++, Embedded Systems, and IoT technologies.
-- **📚 Interests**: Robotics, software development, and sustainable tech innovations.
-- **🤝 Open to Collaborate**: On projects that challenge boundaries and promote growth.
-- **🌍 Know me better**: [edunwant42.tech](https://edunwant42.tech)
+Driven by curiosity, I love building, and developing smart systems and robotics projects and designing modern and fully responsive and user friendly web platforms. My toolkit includes **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **Arduino**, **ESP32**, and **Raspberry Pi**, along with experience in **C/C++** and rapid prototyping.
+
+Let’s connect and create solutions that push boundaries!
+
+- 🔭 **Currently Working On**: `SAI42` - Smart Automated Irrigation System  
+- 🌱 **Learning**: Full-stack development, Embedded Systems, and scalable IoT solutions  
+- 📚 **Interests**: Robotics, web technologies, and sustainable tech innovation  
+- 🤝 **Open to Collaborate**: On meaningful projects that challenge the norm and drive growth  
+- 🌍 **Know me better**: [edunwant42.tech](https://edunwant42.tech)
 
 <br>
 
