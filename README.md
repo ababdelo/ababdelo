@@ -24,7 +24,7 @@ Let’s connect and create solutions that push boundaries!
 - 🌱 **Learning**: Full-stack development, Embedded Systems, and scalable IoT solutions  
 - 📚 **Interests**: Robotics, web technologies, and sustainable tech innovation  
 - 🤝 **Open to Collaborate**: On meaningful projects that challenge the norm and drive growth  
-- 🌍 **Know me better**: [edunwant42.tech](https://edunwant42.tech)
+- 🌍 **Know me better**: [ed42.tech](https://ed42.tech)
 
 <br>
 
