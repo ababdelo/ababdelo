@@ -39,19 +39,17 @@ Let’s connect and create solutions that push boundaries!
     <td align="center">
       <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababdelo&layout=compact&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Top Languages" />
     </td>
-<!--     <td align="center">
+    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ababdelo&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" />
-    </td> -->
+    
   </tr>
 </table>
 
-<!--
 <br>
 
 <p align="center">
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ababdelo?cardType=level&theme=github-dark&preferLogin=false&Border=646464FA" alt="rank stat"/>
 </p>
---->
 
 <br>
 
