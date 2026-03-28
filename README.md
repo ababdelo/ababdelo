@@ -14,9 +14,9 @@ Hello, I'm Abderrahmane Abdelouafi
 
 ### 🧑‍💻 [ About Me ]
 
-I'm a tech tinkerer and innovator from Morocco, blending creativity with hands-on technical expertise. My journey started at **1337 IT School**, where I honed problem-solving skills through peer learning and low-level programming. Now, I'm further sharpening my craft through the **ALX Software Engineering Program**, diving deep into real-world systems and full-stack development.
+I'm a tech tinkerer and builder from Morocco, blending creativity with hands-on technical skills. My journey started at **1337 IT School**, where I developed a strong foundation in problem-solving through peer learning and low-level programming. Building on that experience, I went on to complete the **ALX Front-End Web Development Program**, strengthening my practical approach to modern web development. Today, I continue refining my skills through a new academic chapter in **digital development**, with a growing focus on **web development**.
 
-Driven by curiosity, I love building, and developing smart systems and robotics projects and designing modern and fully responsive and user friendly web platforms. My toolkit includes **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **Arduino**, **ESP32**, and **Raspberry Pi**, along with experience in **C/C++** and rapid prototyping.
+Driven by curiosity, I enjoy building smart systems, robotics projects, and modern, responsive, user-friendly web platforms. My toolkit includes **HTML**, **CSS**, **BOOTSTRAP**, **JavaScript**, **PHP**, **MySQL**, **Arduino**, **ESP32**, **Raspberry Pi**, and rapid prototyping, along with experience in **C/C++**, **PYTHON**.
 
 Let’s connect and create solutions that push boundaries!
 
